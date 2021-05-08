@@ -1,4 +1,5 @@
 Hi
+<<<<<<< HEAD
 How are you
 Hope you are doing good
 This is the test data for git hub file -- Added till here by using Git Bash editor 
@@ -7,3 +8,7 @@ Today Date : 08-May-2021
 Time +:10Am
 Application: GIT
 Testing : File Update
+=======
+How are
+
+>>>>>>> de3ac93af8fb1e29239f216f507d08e764d16d72
